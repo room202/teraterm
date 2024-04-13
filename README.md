@@ -42,3 +42,17 @@ https://forest.watch.impress.co.jp/library/software/utf8teraterm/
 
 Tera Termが起動すればインストール完了  
 ![](images/012.png)
+
+## Deleteキーの設定変更
+
+`設定`→`キーボード`  
+![](images/013.png)
+
+`Deleteキー`のチェックを外す  
+![](images/014.png)
+
+`OK`をクリック  
+![](images/015.png)
+
+`設定`→`設定の保存`で設定を保存  
+![](images/016.png)
